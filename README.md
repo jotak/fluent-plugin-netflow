@@ -101,6 +101,12 @@ And configuration:
       @type stdout
     </match>
 
+## Build
+
+```bash
+bundle install --path vendor/bundle
+gem build
+```
 
 ## Tips
 
